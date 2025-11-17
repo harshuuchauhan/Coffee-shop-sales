@@ -11,7 +11,7 @@ This project analyzes **Coffee Shop sales performance** using an interactive Pow
 
 The goal of this project is to understand sales patterns, improve operational efficiency, and identify business opportunities using Power BI.
 
-### ✅ Problems Addressed:
+## ✅ Problems Addressed:
 
 📊 **Understanding total revenue trends** to assess business growth.
 🍩 **Identifying top-selling items** to optimize the menu and promotions.
