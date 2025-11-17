@@ -41,25 +41,25 @@ The goal of this project is to understand sales patterns, improve operational ef
 - 📌 *Visualization:* Line/Area Chart
 - 📌 *Insight:* Shows overall business performance and seasonality.
 
-2️⃣ **Category-wise Sales Performance**
-📌 *Visualization:* Donut/Bar Chart
-📌 *Insight:* Helps understand which product categories drive revenue.
+- 2️⃣ **Category-wise Sales Performance**
+- 📌 *Visualization:* Donut/Bar Chart
+- 📌 *Insight:* Helps understand which product categories drive revenue.
 
-3️⃣ **Store-wise Comparison**
-📌 *Visualization:* Clustered Bar Chart
-📌 *Insight:* Identifies best- and worst-performing store locations.
+- 3️⃣ **Store-wise Comparison**
+- 📌 *Visualization:* Clustered Bar Chart
+- 📌 *Insight:* Identifies best- and worst-performing store locations.
 
-4️⃣ **Hourly Sales Pattern**
-📌 *Visualization:* Line Chart
-📌 *Insight:* Shows when customer footfall is highest.
+- 4️⃣ **Hourly Sales Pattern**
+- 📌 *Visualization:* Line Chart
+- 📌 *Insight:* Shows when customer footfall is highest.
 
-5️⃣ **Top 10 Selling Products**
-📌 *Visualization:* Ranking/Bar Chart
-📌 *Insight:* Reveals customer favorites for promotions & stocking.
+- 5️⃣ **Top 10 Selling Products**
+- 📌 *Visualization:* Ranking/Bar Chart
+- 📌 *Insight:* Reveals customer favorites for promotions & stocking.
 
-6️⃣ **Daily Sales Heatmap**
-📌 *Visualization:* Heatmap
-📌 *Insight:* Identifies high-performing days for operational planning.
+- 6️⃣ **Daily Sales Heatmap**
+- 📌 *Visualization:* Heatmap
+- 📌 *Insight:* Identifies high-performing days for operational planning.
 
 ---
 
