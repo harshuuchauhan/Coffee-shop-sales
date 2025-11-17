@@ -13,33 +13,33 @@ The goal of this project is to understand sales patterns, improve operational ef
 
 ## ✅ Problems Addressed:
 
-📊 **Understanding total revenue trends** to assess business growth.
-🍩 **Identifying top-selling items** to optimize the menu and promotions.
-🏪 **Comparing store-wise performance** to spot high/low-performing locations.
-⏰ **Analyzing peak hours** to improve staffing and inventory planning.
-📆 **Evaluating daily and weekly patterns** to support scheduling decisions.
-📦 **Understanding category performance** to refine product offerings.
-💡 **Highlighting weak-performing items** to reduce waste and optimize stock.
+- 📊 **Understanding total revenue trends** to assess business growth.
+- 🍩 **Identifying top-selling items** to optimize the menu and promotions.
+- 🏪 **Comparing store-wise performance** to spot high/low-performing locations.
+- ⏰ **Analyzing peak hours** to improve staffing and inventory planning.
+- 📆 **Evaluating daily and weekly patterns** to support scheduling decisions.
+- 📦 **Understanding category performance** to refine product offerings.
+- 💡 **Highlighting weak-performing items** to reduce waste and optimize stock.
 
 ---
 
 ## 📌 Key Performance Indicators (KPIs)
 
-⚡ **Total Sales Revenue** – measures overall revenue performance.
-🛒 **Total Orders** – tracks customer activity and sales volume.
-📦 **Quantity Sold** – identifies product movement and demand.
-💰 **Average Order Value (AOV)** – measures customer spending behavior.
-🍰 **Category-wise Sales Share** – evaluates product group contribution.
-🏆 **Top 10 Selling Items** – highlights high-demand products.
-⏱ **Hourly Sales Trend** – identifies peak and off-peak hours.
+- ⚡ **Total Sales Revenue** – measures overall revenue performance.
+- 🛒 **Total Orders** – tracks customer activity and sales volume.
+- 📦 **Quantity Sold** – identifies product movement and demand.
+- 💰 **Average Order Value (AOV)** – measures customer spending behavior.
+- 🍰 **Category-wise Sales Share** – evaluates product group contribution.
+- 🏆 **Top 10 Selling Items** – highlights high-demand products.
+- ⏱ **Hourly Sales Trend** – identifies peak and off-peak hours.
 
 ---
 
 ## 📊 Visualizations & Insights
 
-1️⃣ **Revenue Trend Over Time**
-📌 *Visualization:* Line/Area Chart
-📌 *Insight:* Shows overall business performance and seasonality.
+- 1️⃣ **Revenue Trend Over Time**
+- 📌 *Visualization:* Line/Area Chart
+- 📌 *Insight:* Shows overall business performance and seasonality.
 
 2️⃣ **Category-wise Sales Performance**
 📌 *Visualization:* Donut/Bar Chart
@@ -65,19 +65,19 @@ The goal of this project is to understand sales patterns, improve operational ef
 
 ## 🛠 Tools & Technologies Used
 
-📊 **Power BI Desktop** – dashboard creation, modeling & visualization.
-🔧 **Power Query** – data cleaning & transformation.
-🧮 **DAX** – calculated measures & KPIs.
-📂 **Excel/CSV Dataset** – raw data source.
-🧱 **Data Modeling** – star schema design with fact & dimension tables.
+- 📊 **Power BI Desktop** – dashboard creation, modeling & visualization.
+- 🔧 **Power Query** – data cleaning & transformation.
+- 🧮 **DAX** – calculated measures & KPIs.
+- 📂 **Excel/CSV Dataset** – raw data source.
+- 🧱 **Data Modeling** – star schema design with fact & dimension tables.
 
 ---
 
 ## 🚀 Future Enhancements
 
-🔮 Add forecasting models for predicting future sales trends.
-🔄 Enable real-time data refresh via Power BI Service.
-👥 Add customer segmentation such as RFM analysis.
-📈 Expand profitability and cost-based reports.
+- 🔮 Add forecasting models for predicting future sales trends.
+- 🔄 Enable real-time data refresh via Power BI Service.
+- 👥 Add customer segmentation such as RFM analysis.
+- 📈 Expand profitability and cost-based reports.
 
 ---
